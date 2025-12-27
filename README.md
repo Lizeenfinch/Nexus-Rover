@@ -405,25 +405,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Mission Statement
 *"We have successfully demonstrated a robust, scalable architecture. Our goal is to democratize access to robotics in hazardous environments."* - Nexus Rover Team
 
-## 📸 Gallery
-
-*(Add photos/videos of your rover in action!)*
-
----
-
-**⭐ If you find this project useful, please consider giving it a star!**
-
-## � Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Quick Start Guide](docs/QUICK_START.md) | Get running in 30 minutes |
-| [Hardware Guide](docs/HARDWARE.md) | Components, wiring, assembly |
-| [System Architecture](docs/ARCHITECTURE.md) | Technical design details |
-| [Market Analysis](docs/MARKET_ANALYSIS.md) | Competitive positioning |
-| [Troubleshooting](docs/TROUBLESHOOTING.md) | Common issues & fixes |
-| [Contributing](docs/CONTRIBUTING.md) | How to contribute |
-| [GitHub Setup](docs/GITHUB_SETUP.md) | Publishing guide |
+**⭐ If you find this project useful, please consider giving it a star!**|
 
 ## 🔗 Useful Links
 
