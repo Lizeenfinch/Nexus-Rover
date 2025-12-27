@@ -1,0 +1,80 @@
+# Arduino
+*.hex
+*.eep
+*.elf
+*.map
+*.sym
+*.lss
+*.o
+*.d
+*.a
+*.bin
+*.out
+
+# Build directories
+build/
+.build/
+*.build/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Credentials (IMPORTANT - Never commit WiFi passwords!)
+credentials.h
+secrets.h
+config_local.h
+
+# Python (if using serial tools)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Node.js (if using web dev tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Documentation build files
+docs/_build/
+docs/.doctrees/
+
+# Test files
+test/
+tests/
+
+# Personal notes
+notes.txt
+TODO.txt
